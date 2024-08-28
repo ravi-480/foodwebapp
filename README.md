@@ -19,8 +19,6 @@ This project was created to provide a seamless and interactive experience for an
 
 1. Clone the Repository:
 
-
-git clone https://github.com/your-username/food-recipe-web-app.git
 cd food-recipe-web-app
 
 
@@ -33,7 +31,7 @@ npm start
 This will launch the application in your default web browser. By default, it should be running on http://localhost:3000.
 
 
-5. Explore the App:
+4. Explore the App:
 Use the search bar to find recipes by name or ingredients.
 Click on a recipe to view the full list of ingredients and cooking instructions.
 
