@@ -1,0 +1,40 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5px 20px;
+}
+.logo img{
+width: 200px;
+height: 120px;
+}
+.navbar a{
+    text-decoration: none;
+    color: rgb(105, 104, 104);
+    font-weight: 500;
+    font-size: 17px;
+}
+.navbar .pages a:hover{
+    font-size: 19px;
+    transition: all 0.2s ease;
+    cursor: pointer;
+    color: rgb(28, 31, 246);;
+}
+
+button{
+    padding: 10px 25px;
+outline: none;
+border: 2px solid rgb(28, 31, 246);
+background-color: white;
+border-radius: 15px;
+color: rgba(1, 1, 76, 1) ;
+font-weight: 500;
+font-size: 16px;
+margin-right: 20px;
+cursor: pointer;
+}
+
+.navbar .pages a{
+    margin: 0px 10px;
+    justify-content: space-between;
+}
